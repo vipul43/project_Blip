@@ -3,7 +3,7 @@ Description: a comprehensive system to track donated blood, its components durin
 Brainstorming:
  - front-end: gives users(be it first party, second party or third party)
  - back-end: serves data from database to front-end, retrieves data from front-end
- - database: 
+ - database: holds data of 
 First-Party Users: Donation Banks
 Second-Party Users: Other Banks
 Third-Party Users: Hospitals
